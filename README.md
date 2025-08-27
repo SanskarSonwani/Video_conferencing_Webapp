@@ -7,10 +7,6 @@ Highlights:
 - ⚡ Tech Stack: React + Express + MongoDB + TailwindCSS + TanStack Query
 - 🧠 Global State Management with Zustand
 - 🚨 Error Handling (Frontend & Backend)
-- 🚀 Free Deployment
-- 🎯 Built with Scalable Technologies like Stream
-- ⏳ And much more!
-
 ---
 
 ## 🧪 .env Setup
